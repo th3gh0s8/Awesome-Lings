@@ -11,6 +11,7 @@ A curated list of **Rustlings-style** interactive learning tools, CLI exercises,
   - [Mobile & Other](#mobile--other)
 - [Specialized Tools & Concepts](#specialized-tools--concepts)
 - [Blockchain & Smart Contracts](#blockchain--smart-contracts)
+- [The Koan Ecosystem (Direct Precursors)](#the-koan-ecosystem-direct-precursors)
 - [Multi-Language CLI Platforms](#multi-language-cli-platforms)
 
 ---
@@ -48,7 +49,7 @@ A "lings" project is a CLI-based interactive tutorial. Typically, it:
 *   **[prjs](https://github.com/samuelroland/prjs)** (JavaScript) - Practice runner for JavaScript.
 
 ### Functional Programming
-*   **[Fronds](https://github.com/gs0510/ofronds)** (OCaml) - An interactive tutorial for OCaml (formerly ofronds).
+*   **[Fronds](https://github.com/gs0510/ofronds)** (OCaml) - An interactive tutorial for OCaml.
 *   **[Haskell MOOC](https://haskell.mooc.fi/part1)** (Haskell) - Interactive course and exercises for Haskell.
 
 ### Mobile & Other
@@ -69,6 +70,20 @@ A "lings" project is a CLI-based interactive tutorial. Typically, it:
 ## Blockchain & Smart Contracts
 *   **[Starklings](https://github.com/onlydustxyz/starklings)** - Learn Cairo and Starknet development.
 *   **[Noirlings](https://github.com/raven-house/noirlings)** - Learn the Noir zero-knowledge programming language.
+
+---
+
+## The Koan Ecosystem (Direct Precursors)
+Before the "lings" format became popular, the "Koans" format was the gold standard for test-driven, CLI-based learning. These work identically: you download the repository locally, run a test watcher, and modify the code (often filling in blanks like `__`) to make the assertions pass.
+
+*   **[Ruby Koans](https://github.com/edgecase/ruby_koans)** (Ruby) - The classic project that popularized this learning style.
+*   **[Python Koans](https://github.com/gregmalcolm/python_koans)** (Python) - A highly popular interactive TDD suite for learning Python 3.
+*   **[DotNet Koans](https://github.com/DotNetKoans/DotNetKoans)** (C# / .NET) - Cross-platform exercises for learning C# syntax.
+*   **[SQL Koans](https://github.com/phillipjohnson/sql-koans)** (SQL) - Interactive queries where you fill in missing SQL parameters.
+*   **[Clojure Koans](https://github.com/functional-koans/clojure-koans)** (Clojure) - Interactive exercises for the Clojure language.
+*   **[JavaScript Koans](https://github.com/mignev/javascript-koans)** (JavaScript) - A test-driven learning suite for JavaScript.
+*   **[Go Koans](https://github.com/cdarwin/go-koans)** (Go) - An alternative interactive suite for learning idiomatic Go.
+*   **[CppKoans](https://github.com/torbjoernk/CppKoans)** (C++) - Learn C++ standard libraries and features using MSTest or GTest styles.
 
 ---
 
