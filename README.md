@@ -1,4 +1,4 @@
-# Awesome Lings
+# Awesome Lings [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of **Rustlings-style** interactive learning tools, CLI exercises, and koans for various programming languages and technologies. Inspired by the original [Rustlings](https://github.com/rust-lang/rustlings) project.
 
